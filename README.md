@@ -17,5 +17,5 @@ To view a demo , **[click here](https://shareplace-ui.web.app/)**
 ⚡️ Nodejs\
 ⚡️ Expressjs\
 ⚡️ Multer\
-⚡️ Cloudnary\
+⚡️ Cloudinary\
 ⚡️ MongoDb and Mongoose\
